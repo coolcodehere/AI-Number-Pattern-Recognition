@@ -2,7 +2,6 @@ import random
 
 dataset = open("data.txt", "w")
 
-
 def generateData(numLines)
     """
     Arguments:
