@@ -15,7 +15,3 @@ def generateData(numLines)
         for i in range(0, 30):
             numString += str(random.randint(0, 9))
         dataset.write(numString + "\n")
-
-
-
-
